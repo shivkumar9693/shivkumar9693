@@ -15,7 +15,7 @@
 
 ## About
 
-B.Tech Computer Science · CGPA 8.30 · Graduating 2026
+B.Tech Computer Science · CGPA 8.36 · Graduating 2026
 
 I build **production-grade backend systems** — not tutorials, not toy projects. My focus is on clean architecture, secure authentication pipelines, and systems designed to scale. Currently interning at AlienHouse Networks and shipping real code to real users.
 
