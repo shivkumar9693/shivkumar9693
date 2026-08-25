@@ -38,13 +38,14 @@ I build **production-grade backend systems** — not tutorials, not toy projects
 ---
 
 ## Experience
+**Software Developer — GISUL SOFTWARE SERVICES PVT LTD** *(Aug 2026 - Present)*
 
-**Software Developer — AlienHouse Networks** *(2026 – Present)*
+**Software Developer — AlienHouse Networks** *(Jan 2026 - Jun 2026)*
 - Engineered scalable Spring Boot backend services, improving API reliability by **35%** under peak load
 - Implemented JWT-based authentication with role-based access control (RBAC)
 - Reduced bug resolution cycle time by **30%** through structured review and debugging practices
 
-**Backend Developer Intern — HertzworkZ** *(Remote)*
+**Backend Developer Intern — HertzworkZ** *(Jan 2025 - Apr 2025)*
 - Developed performance-critical Node.js APIs, cutting average endpoint latency by **40%**
 - Architected an AWS Lambda + DynamoDB serverless solution, improving read performance by **30%**
 
